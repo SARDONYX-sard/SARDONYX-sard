@@ -7,3 +7,5 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=SARDONYX-sard&theme=xcode&area=true" />
 </div>
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
