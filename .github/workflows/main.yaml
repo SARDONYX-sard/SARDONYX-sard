@@ -1,0 +1,83 @@
+# Copyright (c) 2021 SARDONYX, Rintaro(https://github.com/Re-taro/Re-taro)
+#
+# This software is released under the Apache-2.0 License.
+# https://opensource.org/licenses/Apache-2.0
+
+name: Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 * * * *'
+
+jobs:
+  github-metrics:
+    name: Update README with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_PROJECTS: "false"
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GH_TOKEN }}
+          # 🏆 Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: B        # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes        # Display unlocked secrets achievements
+          plugin_achievements_ignored: octonaut   # Hide octonaut achievement
+          plugin_achievements_limit: 0            # Display all unlocked achievement matching threshold and secrets params
+          # 💡 Coding habits
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: no       # Don't display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          config_timezone: Asia/Tokyo   # Set timezone
+          # 🙋 Introduction
+          plugin_introduction: yes
+          # 📅 Isometric commit calendar
+          plugin_isocalendar: yes
+          # 🎼 Music plugin
+          plugin_music: yes
+          plugin_music_provider: spotify  # Use Spotify as provider
+          plugin_music_mode: recent       # Set plugin mode
+          plugin_music_limit: 4           # Limit to 4 entries
+          plugin_music_played_at: yes     # Show timestamp (for spotify only)
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          # 🎭 Comment reactions
+          plugin_reactions: yes
+          plugin_reactions_limit: 200                   # Compute reactions over last 200 issue comments
+          plugin_reactions_days: 14                     # Compute reactions on issue comments posted less than 14 days ago
+          plugin_reactions_details: count, percentage   # Display reactions count and percentage
+          plugin_reactions_ignored: bot                 # Ignore "bot" user
+          # 📌 Starred topics
+          plugin_topics: yes
+          plugin_topics_sort: stars       # Sort by most starred topics
+          plugin_topics_mode: mastered    # Display icons instead of labels
+          plugin_topics_limit: 0          # Disable limitations
+          # 🐤 Latest tweets
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_attachments: yes      # Display tweets attachments (images, preview urls, etc.)
+          plugin_tweets_limit: 5              # Limit to 5 tweets
+          plugin_tweets_user: .user.twitter   # Defaults to your GitHub linked twitter username
+          # ⏰ WakaTime plugin
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 30                                                                  # Display last month status
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs    # Display time, projects sections, along with projects graphs, languages sections and languages graphs
+          plugin_wakatime_limit: 4                                                                  # Show 4 entries per graph
+          plugin_wakatime_url: https://wakatime.com                                                 # Wakatime url endpoint
+          plugin_wakatime_user: ${{ github.repository_owner }}
