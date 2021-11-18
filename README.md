@@ -27,7 +27,7 @@
 </div>
 <br/>
 
-## Recent Activity
+## Activity
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
