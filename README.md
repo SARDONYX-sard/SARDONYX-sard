@@ -1,5 +1,3 @@
-<img align="right" src="./images/rintaro.jpg" width="200" />
-
 <p align="center">
   <a href="http://github.com/SARDONYX-sard/SARDONYX-sard" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=SARDONYX-sard&color=8A6D99" alt="SARDONYX-sard" />
