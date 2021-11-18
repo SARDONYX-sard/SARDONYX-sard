@@ -27,7 +27,7 @@
 </div>
 <br/>
 
-## WakaTime
+## Recent Activity
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
