@@ -54,13 +54,6 @@ jobs:
           plugin_introduction: yes
           # 📅 Isometric commit calendar
           plugin_isocalendar: yes
-          # 🎼 Music plugin
-          plugin_music: yes
-          plugin_music_provider: spotify  # Use Spotify as provider
-          plugin_music_mode: recent       # Set plugin mode
-          plugin_music_limit: 4           # Limit to 4 entries
-          plugin_music_played_at: yes     # Show timestamp (for spotify only)
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           # 🎭 Comment reactions
           plugin_reactions: yes
           plugin_reactions_limit: 200                   # Compute reactions over last 200 issue comments
