@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2151" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2271" class="">
     <defs>
         <style/>
     </defs>
@@ -1563,7 +1563,7 @@ Lang: TypeScript, Python, Ruby, PHP
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 96 commits)</small>
+        <small class="h-details">(computed from last 98 commits)</small>
       
     </h2>
             </section>
@@ -1666,13 +1666,13 @@ Lang: TypeScript, Python, Ruby, PHP
               18
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 3.4090909090909087px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               19
             </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 1.1363636363636365px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               20
             </div>
                     <div class="entry">
@@ -1688,7 +1688,7 @@ Lang: TypeScript, Python, Ruby, PHP
                     <div class="chart-bars">
                         <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 0.684931506849315px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 0.6666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1703,22 +1703,22 @@ Lang: TypeScript, Python, Ruby, PHP
               </div>
                         <div class="entry">
                 <span class="value">2</span>
-                <div class="bar" style="height: 1.36986301369863px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 1.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
                 <span class="value">11</span>
-                <div class="bar" style="height: 7.534246575342466px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 7.333333333333333px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">73</span>
+                <span class="value">75</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
                 <span class="value">9</span>
-                <div class="bar" style="height: 6.164383561643835px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 6px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1771,6 +1771,16 @@ Lang: TypeScript, Python, Ruby, PHP
             
           </div>
                         <div class="tweet">
+                  ダイパリメイクのダウジングはオマージュすべきではなかったと思う。<br />Xの歩きながらダウジングの採用を強くキボンヌ。<br />使いづらいんだよ
+                  
+                  <div class="date">20:17:29 on 19 Nov 2021</div>
+                </div>
+                        <div class="tweet">
+                  RT <span class="mention">@neco_engineer</span>: 〜Slackにて〜<br /><br />客「ワイさん助けて」<br />ﾜｲ「おやおや」<br />客「ここ動きおかしくて…」<br />ﾜｲ「あー誰か設定いじったなこれ」<br />客「あ、俺かも。すいません😭」<br />ﾜｲ「…誰かを悪者にするのは、もう止めましょう。ハイ元通り😉👌」<br />客「ワイさん…（…
+                  
+                  <div class="date">20:11:29 on 19 Nov 2021</div>
+                </div>
+                        <div class="tweet">
                   シャイニングパールNPCの手持ちが地味に変わってるな
                   
                   <div class="date">19:12:08 on 19 Nov 2021</div>
@@ -1795,16 +1805,6 @@ Lang: TypeScript, Python, Ruby, PHP
                     </div>
                   
                   <div class="date">18:20:52 on 19 Nov 2021</div>
-                </div>
-                        <div class="tweet">
-                  むかしすべてのプレート集めてミスターグッズに話しかけると、てんかいのふえがもらえるというデマが流行った
-                  
-                  <div class="date">16:53:48 on 19 Nov 2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@jiko61702516</span> ずっと出ない気持ちわかるわー（笑）<br />少なくともムックルは必要な件。<br /><br />おーだいたい同じ感じだったのね。
-                  
-                  <div class="date">16:20:56 on 19 Nov 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3269,7 +3269,7 @@ Lang: TypeScript, Python, Ruby, PHP
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Nov 2021, 20:00:19 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 19 Nov 2021, 20:23:39 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
