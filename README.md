@@ -1,5 +1,3 @@
-<div style="font-family: 'Noto Serif JP',serif;">
-
 <p align="center">
   <a href="http://github.com/SARDONYX-sard/SARDONYX-sard" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=SARDONYX-sard&color=8A6D99" alt="SARDONYX-sard" height="24"/>
@@ -50,6 +48,8 @@
   <a href="https://www.fortran-lang.org/">
     <img src="https://img.shields.io/static/v1?label=Fortran&color=lightgray&style=flat-square&logo=Fortran&message=Novie" height="25">
   </a>
+
+  <br/>
 
   <a href="https://docs.docker.com/">
     <img src="https://img.shields.io/static/v1?label=Docker&color=green&style=flat-square&logo=Docker&message=Begginer" height="25">
@@ -183,5 +183,3 @@ Vue                      2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
-  
-</div>
