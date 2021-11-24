@@ -50,6 +50,7 @@
   </a>
 
   <br/>
+  <br/>
 
   <a href="https://docs.docker.com/">
     <img src="https://img.shields.io/static/v1?label=Docker&color=green&style=flat-square&logo=Docker&message=Begginer" height="25">
@@ -59,6 +60,7 @@
   </a>
 
   <br/>
+  <br/>
 
   <a href="https://html.spec.whatwg.org/multipage/">
     <img src="https://img.shields.io/static/v1?label=HTML&color=green&style=flat-square&logo=html5&message=Begginer" height="25">
@@ -67,6 +69,7 @@
     <img src="https://img.shields.io/static/v1?label=CSS&color=green&style=flat-square&logo=css3&message=Begginer" height="25">
   </a>
 
+  <br/>
   <br/>
 
   <a href="https://www.postgresql.org">
