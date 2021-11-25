@@ -105,7 +105,7 @@
 
 <br>
 
-[!Graph is currently unavailable.](https://activity-graph.herokuapp.com/graph?username=SARDONYX-sard&theme=xcode&area=true)
+[!Graph is currently unavailable.[(https://activity-graph.herokuapp.com/graph?username=SARDONYX-sard&theme=xcode&area=true)]]
 
 <br/>
 
@@ -182,7 +182,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
+![Chart not found]
 
 
  Last Updated on 24/11/2021
