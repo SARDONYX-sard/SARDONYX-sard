@@ -105,7 +105,7 @@
 
 <br>
 
-[![Graph is currently unavailable.](https://activity-graph.herokuapp.com/graph?username=SARDONYX-sard&theme=xcode&area=true)]
+![Graph is currently unavailable.](https://activity-graph.herokuapp.com/graph?username=SARDONYX-sard&theme=xcode&area=true)
 
 <br/>
 
