@@ -104,10 +104,11 @@
 ## Contribution Graph 📈
 
 <br>
-<div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=SARDONYX-sard&theme=xcode&area=true" />
-</div>
+
+[!Graph is currently unavailable.](https://activity-graph.herokuapp.com/graph?username=SARDONYX-sard&theme=xcode&area=true)
+
 <br/>
+
 
 ## Activity
 
