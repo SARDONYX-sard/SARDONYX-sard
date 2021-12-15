@@ -113,7 +113,7 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
