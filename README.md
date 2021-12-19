@@ -5,7 +5,7 @@
   <a href="https://twitter.com/SARDONYX_sard/">
     <img src="https://img.shields.io/twitter/follow/SARDONYX_sard?color=1d9bf0&logo=twitter&style=flat" height="24">
   </a>
-  <a href="https://github.com/SARDONYX-sard/" target="_blank">
+  <a href="https://github.com/SARDONYX-sard?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/SARDONYX-sard?color=%231c2128&logo=GitHub&style=flat" height="24">
   </a>
 </p>
