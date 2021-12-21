@@ -1707,8 +1707,8 @@ Lang: TypeScript, Rust, Python, Ruby, PHP
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">18</span>
-                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">19</span>
+                <div class="bar" style="height: 35.18518518518518px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1717,8 +1717,8 @@ Lang: TypeScript, Rust, Python, Ruby, PHP
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">22</span>
-                <div class="bar" style="height: 40.74074074074074px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">21</span>
+                <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -1738,27 +1738,27 @@ Lang: TypeScript, Rust, Python, Ruby, PHP
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 75.88495961495113%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 75.88822261659982%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">95%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 2.0485558713046608%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.0486439578137583%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PowerShell</span>
-                            <div class="bar" style="width: 1.8801100214075286%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.8767509192733376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">AutoHotkey</span>
-                            <div class="bar" style="width: 0.11184554266065745%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.11185035194291774%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Makefile</span>
-                            <div class="bar" style="width: 0.07452894967602057%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.07453215437016421%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3270,7 +3270,7 @@ Lang: TypeScript, Rust, Python, Ruby, PHP
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Dec 2021, 19:27:55 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 21 Dec 2021, 19:47:10 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
