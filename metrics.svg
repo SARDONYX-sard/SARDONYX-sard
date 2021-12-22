@@ -1738,27 +1738,27 @@ Lang: TypeScript, Rust, Python, Ruby, PHP
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 74.89245915299527%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 74.92087994926437%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">94%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 3.0577966149644187%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.0589570123610206%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PowerShell</span>
-                            <div class="bar" style="width: 1.8658073343294868%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.836156338801821%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">AutoHotkey</span>
-                            <div class="bar" style="width: 0.11038271322355073%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.1104246021485458%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Makefile</span>
-                            <div class="bar" style="width: 0.07355418448726819%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.07358209742424067%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3281,7 +3281,7 @@ Lang: TypeScript, Rust, Python, Ruby, PHP
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Dec 2021, 19:59:58 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 22 Dec 2021, 20:22:18 (timezone Asia/Tokyo) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
