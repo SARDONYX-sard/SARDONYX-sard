@@ -113,6 +113,8 @@
 ## Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2032%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 119 Contributions in the Year 2022
