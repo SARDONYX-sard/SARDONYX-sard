@@ -113,6 +113,8 @@
 ## Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2019%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 172 Contributions in the Year 2022
@@ -186,7 +188,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2022 10:26:56 UTC
+ Last Updated on 20/01/2022 10:44:04 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
