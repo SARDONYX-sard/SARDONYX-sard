@@ -113,13 +113,11 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2057%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 180 Contributions in the Year 2022
+> 🏆 181 Contributions in the Year 2022
  > 
-> 📦 178.4 kB Used in GitHub's Storage 
+> 📦 181.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -143,8 +141,8 @@ Monday       210 commits    █████░░░░░░░░░░░░�
 Tuesday      96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
 Wednesday    129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
 Thursday     172 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
-Friday       168 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
-Saturday     125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
+Friday       167 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.15% 
+Saturday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
 Sunday       74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6%
 
 ```
@@ -187,7 +185,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 11:20:09 UTC
+ Last Updated on 29/01/2022 10:26:54 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
