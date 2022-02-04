@@ -27,7 +27,7 @@
   <a href="https://docs.microsoft.com/powershell/">
     <img src="https://img.shields.io/static/v1?label=PowerShell&color=green&style=flat-square&logo=PowerShell&message=Begginer" height="25">
   </a>
-  <a href="https://docs.microsoft.com/dotnet/csharp/">
+  <a href="http://www.open-std.org/jtc1/sc22/wg14/">
     <img src="https://img.shields.io/static/v1?label=C&color=green&style=flat-square&logo=C&message=Begginer" height="25">
   </a>
   <a href="https://www.php.net">
@@ -36,7 +36,7 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/static/v1?label=Python&color=lightgray&style=flat-square&logo=python&message=Novice" height="25">
   </a>
-  <a href="http://www.open-std.org/jtc1/sc22/wg14/">
+  <a href="https://docs.microsoft.com/dotnet/csharp/">
     <img src="https://img.shields.io/static/v1?label=Csharp&color=lightgray&style=flat-square&logo=Csharp&message=Novice" height="25">
   </a>
   <a href="https://www.java.com">
