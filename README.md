@@ -113,7 +113,7 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2041%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -188,7 +188,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/02/2022 10:54:22 UTC
+ Last Updated on 13/02/2022 11:10:59 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
