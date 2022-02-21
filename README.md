@@ -113,13 +113,13 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2014%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 301 Contributions in the Year 2022
+> 🏆 302 Contributions in the Year 2022
  > 
-> 📦 152.5 kB Used in GitHub's Storage 
+> 📦 153.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,14 +136,14 @@
 🌙 Night      404 commits    ██████████░░░░░░░░░░░░░░░   40.68%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       190 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
+Monday       191 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
 Tuesday      105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
 Wednesday    130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
 Thursday     191 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-Friday       163 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
+Friday       162 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
 Saturday     138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
 Sunday       76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65%
 
@@ -188,7 +188,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2022 11:15:01 UTC
+ Last Updated on 21/02/2022 10:46:43 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
