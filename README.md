@@ -115,9 +115,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 385 Contributions in the Year 2022
+> 🏆 394 Contributions in the Year 2022
  > 
-> 📦 172.4 kB Used in GitHub's Storage 
+> 📦 173.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,21 +128,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+🌞 Morning    88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
 🌆 Daytime    302 commits    ███████░░░░░░░░░░░░░░░░░░   30.35% 
 🌃 Evening    192 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.3% 
-🌙 Night      420 commits    ██████████░░░░░░░░░░░░░░░   42.21%
+🌙 Night      413 commits    ██████████░░░░░░░░░░░░░░░   41.51%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       195 commits    █████░░░░░░░░░░░░░░░░░░░░   19.6% 
+Monday       187 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.79% 
 Tuesday      95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
 Wednesday    132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
 Thursday     185 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.59% 
 Friday       191 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
-Saturday     118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Saturday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
 Sunday       79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.94%
 
 ```
@@ -186,7 +186,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/03/2022 10:29:54 UTC
+ Last Updated on 05/03/2022 10:28:38 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
