@@ -113,6 +113,8 @@
 ## Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%209%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 481 Contributions in the Year 2022
@@ -185,7 +187,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/03/2022 10:30:36 UTC
+ Last Updated on 24/03/2022 11:21:30 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
