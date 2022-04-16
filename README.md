@@ -113,13 +113,11 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs%2038%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 526 Contributions in the Year 2022
  > 
-> 📦 199.7 kB Used in GitHub's Storage 
+> 📦 202.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -156,9 +154,9 @@ Sunday       88 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Bash                     4 hrs               █████████░░░░░░░░░░░░░░░░   37.56% 
-fish                     2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97% 
-Python                   1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
+Bash                     4 hrs               █████████░░░░░░░░░░░░░░░░   37.55% 
+fish                     2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98% 
+Python                   1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
 JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
 Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.27%
 
@@ -166,8 +164,8 @@ Other                    40 mins             █░░░░░░░░░░�
 VS Code                  10 hrs 41 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 7 mins        ██████████████░░░░░░░░░░░   57.29% 
-Linux                    4 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   42.71%
+Windows                  6 hrs 7 mins        ██████████████░░░░░░░░░░░   57.3% 
+Linux                    4 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   42.7%
 
 ```
 
@@ -188,7 +186,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/04/2022 11:28:00 UTC
+ Last Updated on 16/04/2022 10:29:26 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
