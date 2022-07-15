@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2304" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.horizontal{justify-content:space-around}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.tweet{font-size:13px;margin-top:6px;margin-bottom:16px;margin-left:18px;border-left:3px solid #777777b2;padding-left:6px}.tweet .link,.tweet .mention{color:#0366d6}.tweet .date{margin:6px 0;font-size:12px;color:#666}.tweet .attachments{display:flex;width:450px;margin-top:8px}.tweet .attachments&gt;div{flex:1 1 0;width:0;border-radius:6px;background-position:center;background-size:cover;height:200px;margin:2px;box-shadow:0 0 1px #777777a0;overflow:hidden;display:flex;align-items:flex-end}.tweet .attachments .infos{background-color:#000000d0;color:#fff;display:flex;flex-direction:column;width:100%;padding-bottom:4px}.tweet .attachments .infos&gt;div{margin:4px 8px 0}.tweet .attachments .infos .title{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.tweet .attachments .infos .description{font-size:11px;color:#666}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -41,8 +41,8 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -83,7 +83,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1984 Commits
+                            1985 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -141,7 +141,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 874 repositories
+                            Starred 879 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    201 MB used
+                                    202 MB used
                                 </div>
                             </section>
                             <section>
@@ -224,7 +224,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 117 commits)</small>
+                    <small class="h-details">(computed from last 119 commits)</small>
                 </h2>
             </section>
             <section class="habits">
@@ -312,8 +312,8 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                             19
                         </div>
                         <div class="entry">
-                            <span class="value">42</span>
-                            <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">44</span>
+                            <div class="bar" style="height: 36.666666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             20
                         </div>
                         <div class="entry">
@@ -353,8 +353,8 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">14</span>
-                                <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">16</span>
+                                <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -404,11 +404,65 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">
+                        <div class="field ">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path fill-rule="evenodd" d="M4.75 2.37a6.5 6.5 0 006.5 11.26.75.75 0 01.75 1.298 8 8 0 113.994-7.273.754.754 0 01.006.095v1.5a2.75 2.75 0 01-5.072 1.475A4 4 0 1112 8v1.25a1.25 1.25 0 002.5 0V7.867a6.5 6.5 0 00-9.75-5.496V2.37zM10.5 8a2.5 2.5 0 10-5 0 2.5 2.5 0 005 0z"/>
                             </svg>
-                            Unexpected error
+                            SARDONYX_sard
+                        </div>
+                        <div class="tweet">
+                            おちつけ -&gt; もちつけ
+                            <br />
+                            <br />
+                            つまり餅を搗くという行為は落ち着くという行為だったのだよ…(錯乱
+                            <div class="date">00:40:57 on 15 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
+                            <span class="mention">@masaki_kito</span>
+                            : 新証言=叔父「統一教会憎しになりますよ/持って行かれてしまったのが1億数千万円/3人の甥と姪（山上容疑者ら）の依頼で統一教会から5千万円を2009年に取り返した/その時の和解書もある/でも取り返した金を母親がまた寄付してしまう」=統一教会から5…
+                            <div class="date">00:25:30 on 15 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
+                            なるほど…
+                            <br />
+                            だれかこのページごとにコミットしたソースコードGitHubに挙げてないかな…
+                            <br />
+                            <br />
+                            どこにどう書いているのかいまいちぐちゃぐちゃでよくわからんのだよ…
+                            <br />
+                            筆者の公開ソースは初手で止まっているし…
+                            <br />
+                            <br />
+                            クマった…（´・ω・｀）
+                            <br />
+                            <br />
+                            <br />
+                            <a href="https://t.co/WPAVZ5O8mG" class="link">softwaretechnique.web.fc2.com/OS_Development…</a>
+                            <div class="date">21:45:06 on 14 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
+                            pipr便利で草（´・ω・｀）
+                            <div class="date">21:10:26 on 14 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
+                            <span class="mention">@tanakh</span>
+                            : これ凄くない･･･？(´･_･`) / 1件のコメント
+                            <a href="https://t.co/oGGxJFdvNO" class="link">b.hatena.ne.jp/entry/s/gihyo.…</a>
+                            “第723回　複雑なコマンドパイプラインを簡単に組み立てる方法 |
+                            <a href="https://t.co/eKJWxltE3H" class="link">gihyo.jp</a>
+                            ” (43 users) https…
+                            <div class="attachments largeable largeable-width-auto">
+                                <div style="background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAAEWCAIAAAB61QArAAAACXBIWXMAAAsTAAALEwEAmpwYAAAgAElEQVR4nO2dCXQUVdbHq5N0EnZUwiIiRMAofLIZwAUVFBAJCDqgMzCKiCwBQUFAEFmCOziMKCNLIjgQAojAsIiAKJCNhEBASAgCUSTsBBfWpNfvdF/yKF91V1f365Be/r/D8XTaqup69d77171vuVeyAgAAEEASORkAAABkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAACEgowAAIARkFAAAhICMAgCAEJBRAAAQAjIKAABCQEYBAEAIyCgAAAgBGQUAAMgoAABUHLBGAQBAiGCXUYvVarFYKvou/AyTyWQ0Gk0mk/ZHZzabjQrMZnM53ylwA1ZH6BHuEtQyarFYjGaLyf6vou/FPzAYDEajkf1pNBoNBkOF3hHwAiaTSV6PZrO5tLQUYqqd4JVRaiV/XjMd/73E1nRgk7qCjMerV6/u3Llz7dq1mZmZV69eZU9S/TkfPnx49erVGzZsWG9nw4YNa9asKSoqcnk6KG/o+VssloKCgvXr12/duvXcuXOsuoEWglRGLRYL6Wb/JYfrTtlVWHzN9k6GTeoc6lRr166NiYnRlRETE7N69Wr1LkfWa0JCgiRJYWFhkp3Q0FBJkhYtWsQOABUCVVxBQUGXLl1Y7dxyyy3Tp0+nesFLTgvBKKNmi8Vospgt1heXHpaG7ZBGpEVPy/npnE1JDSZYRg4wmUxWq3XFihXUzXQ6XVhYWEhICP1JSkrHKKHe+P7770uSFBEREWYnIiJCkqTk5GTIaIVr6M8//1y/fn15tVLNjho1CjapRoJORi0W2z+r1fpC8mFp6I7QNzJD3siURqQ2simpzUU1wcfkn5jteZWWljZv3pwZknKjslWrVtQhHVouJKPvvvuu0hpdvHgxZLQCoTffkCFDJEnS6/WsWnU6nSRJ4eHh+fn5UFItSEHoy1ss1n8mH5aGbA97I1ManSGNzggdmykNT71zas4hUlJ494rOlpWVxToYR0hIyMGDB531N8iob0LvPIPBEB0draxZeuHNmTMH7zktBJGMmi1Wo8lisljIDmUael1J7TZp9LScAruSwrvnZHTTpk2cKSonOzsbMuqPMnr+/PmoqChnMjpz5kzIqBakYPPlbeOhdl9erqH0j3n3h8/bZ5zg3ctkNDs7W8UaLSgogIz6o4wajcYmTZpQJSpl9PPPP4eMakEKIl/ean1h6WFpCG+H/sUmtXv3DctmnODds/5mMplatWrFDaLR5wceeIA9Z+XDh1Pv4y/IUaNG0eyf/L2o0+mqVKly+PBhjI1qQQoeX36A3Q5V0VC5d39Xwm5491x/27JlC3U2fRnU/X744QeVzgYZ9Vmoyk6fPh0TE0PVGh4ertfraegmISEBGqqRAJdRLb48vHvtXe6HH35o06YNOYAhISGxsbHbt2/Xsm4UM/W+CVXcL7/80rt3b2aQ1q1b99NPP8WiUe0EsoxaLLYlohbbGvufpME35uW1/CPvvsGUXYfs3r0Rc/dlXc5isRQWFu7Zs6ewsJC+Ud/uAhn1ccxm6iXWM2fOpKam5ubmXrlyBXaoW0iB7MubbVvm+y9xMR6q7t03nJqTfwZz99cxmUxy0TSbzc5W3TMgo74PV48Wi8VltYLAl1Hmyw9wx5d35t1HY+6ef7z2xbfagIwGas2CQJZR5svb1ti76cs78+7vhHfvKZBREPBIAbhfnvnyGubltXr3w33XuycXrLS09JqdkpKS0tLSkpIS+rO0tLRiI0hCRh3Wl8FgoDrytfoq12CmpbKSUsENBoNbgWt9k4CSUW/58i69ex+JqufWGJa8sVoc4csyKj5a5wsdlUqh8U64YWifxaLalrQXWcs4u88iBZgvb7Z4Mi/vlndfcLbi992b7NDnkpKSvLy8pUuXTp48eeDAgX379u3cuXOfPn0GDhz49ttvp6Sk5Ofns6C8N79zCsooRdrX/nPOeqxXZNTZ+8a2v0P1qZItRp+NRuPhw4dXrVo1ffr0wYMH//3vf+/SpUuvXr0GDBgwbty4pKSknJycS5cuKU/0L8x/lcVz585lZ2cnJyfPnDlzypQpY8aMeffdd2fPnr1u3br8/HxaG3A9krofllcKJF/eZLb803u+vIp3f/BshXn35L/Th8zMzDfeeKNZs2ZMnhwSHh7eokWLCRMm5Obm0trPjh079ujRo7udHj16dOzY8dtvv1UJdkfacfHixaeeeqply5Zt27aNjY1t27Ztq1atunTpcu3aNRWd8lhGjUZjSUkJXfbIkSPjx49XCYDCbn7ZsmXNmjVr3759bBlt27Zt2bJlVlaW4CIeOnfChAn33HOP/PqxsbEdOnT49ddfHV7fbDaXlJTQ9/n5+QkJCbGxsZUqVVKpL51Od9dddw0fPnzbtm30/istLS0nS41u7I033rj33nvbtWvHnliLFi1ycnJUnhgrUdeuXePi4lhb6tSp0+TJk1l1HD16dPbs2V27dqWd+w4JCwtr2rTpoEGD1q1bd/HiRQqY4l9ZFaRA8uVfSvGyL+/Yux+eeldCzpHiCvDu2RK/HTt2dOnSRR4oJCQkJCwsLNROSEgIfZBHBSXxeuWVVyZOnCjfQ00XUd89TT964cKFevXqsZ319N+oqCgyJbwoo1RMuuDBgweHDRtWs2ZNSZImTJigovUsemaNGjXk2//ptwYOHKhyrpYnT6JQrVo15cV79+7tTEPpy0OHDr300ku0vp09PQq9SvVFVcbVlyRJjz322HfffafF4PUMeiA9evSQx52he6DfdfbE6PsdO3Yon0aXLl2sVuv+/fsHDhzIPS55y6QP7H/Rh5iYmPnz51NWBdbafR8pMPbLl58v79S7n3qzvXuSmxMnTjz33HOs5VFzVDFt6DBquPKzGNS3ExMTXcrob7/9duedd9KuwbCwMNoMWq9ePS/KKMtzZ7FY0tPTn332WfoV6thRUVEnT550+Vvjx4+XJCkyMpIKqNfrdTpd9erVCwsLPTZI5dvP5VcOCQmpWrXqgQMHlFemUy5fvvzmm29SKdiTdxjhRQ7VF6UYkCSpV69ex48fL48oIXSTzz77rDyoNt3ttm3bXMpoRkYGaw9hYWHh4eGSJHXs2HHcuHFybVW+HtTL27hx4zVr1nAD+r6Mf8soxbG/Pqfk0Rp7Ee++0bScI/YZJ7qH8sNisZCPs3nz5rp161Kzk6unTqfT6/URERG0IZre+RF2OJGVv//lirZgwQItMnr77beXhzVKOdSoZ5rN5k2bNnXu3Fku+vQmkCTpgw8+ULlPlhJDbvexn5syZYpnBikVraio6LbbblNe9pVXXlFeluqroKCA4rlQjcgfO73AwsPDWX2Fh4eTQHO1QyfWqlVr48aN5OBbvQfddu/eveXWKBWQQiWoy2h6eroy7pfc3JZ/HxISQtv2qWWy5sodw14zQ4YMoVEd35968mMZvZm+vEvvvlxtUmpGc+fOpebFvdhdWqMsLYRDKlBGlyxZQrpA55aUlCxfvrxt27asN3KjFpIkNW3aVP3n6Fm98MILSi+1YcOGv//+uwfTTXTNSZMmKbUmIiJi//79nClKx2/dupXGIpRKoW6N6nQ6rr7oFJ1OR2MvXpSV8pBRSdFE1YvMVbT8m8cee+z8+fO+vzNV8v849jfJl1fx7ss1Zj7J0MyZM6mhyxso08eqVat27tw5ISFh9erVO3fuPHDgQFpaWkpKyrhx41q2bEnHKO3QCpfRL7/8knrIhQsXZs+eTYEvSUQcTprRWfPmzXM5Qpqdna00wyVJmjt3rruuMZXr1KlTDk3RIUOGcDdDnzdu3EgWsbwgzCbV6/Xt27efOHHi8uXL09PTDxw4kJWVtXLlyqlTp3bo0IF8amVd07mzZ8/2opKWk4wy5KWoV69ep06dXnnllQkTJkycOPH111/v2bNn06ZN6Xc5MSUHS5Kke++99/Tp0z6upJJf+/IvpRy5mb68M+8+elrO0eJy8e6pwy9dulT5Sqf+GRkZ+dprrx05ckQpZPSn2WzeunVrx44dlUMBFS6jKSkp165dmzp1Kpu54rRDKSWSJLVu3ZocW2e/SP2tZ8+eSoP0/vvvp/7v7mbWDz/8UGlXRkZGctmK6OJ79+6tXr06Z5SxbHF9+vTJyclxtnDKarXu3r27T58+ytcJs1K//vprb42TlquM6sveB717916/fj25AhzXrl3LzMwcOnRo1apV6RRlI+/QoUNJiS0Lus+Ok/qfjFqs5eLL60ZnhIzx3LtvnLDb6949dc59+/Zx052sxcfGxubl5bH1jLSYlOY3ab0hjdBT41u4cCG1VIdjAjdZRomHH36YXZB7STDJ4Loofbly5UqXPfybb77hCkuX2rx5s3ZrjgpVXFxMc2vc8gbOFKWD//zzT8r9p3wB3HnnnWzanS3+ZfVFK2RZfa1fv54SdiqLULNmzUOHDnnFQCs/GQ21X+3hhx+mhVNUKFZSgn1ptVqPHTvWt29fZ+bC0KFDfdkg9TMZLSdfPmRMRshr6dKI1JAxmR569/Fe9u5ZT3vwwQc5O4gaVt++fWkeg+RS5TrsgP379zdq1IjrmRUoo+wGuPthhY2JiWnQoIHSle7YsaP6Ynj68NBDDym17+mnn9beIenmP/74Y6XK1KxZ85dfflGaovHx8VxJ6cQHHnjgzJkzWjYUsPo6efJku3btHGZjffzxx7nC+uDY6JtvvkkH00vd4TNn7ZMKkpSUxFY1cA1+6dKl3h0XDlIZLSdf3nad4aktPsgds+4XaURq2JhM3ZiK9+6puXz++ecOe1FcXBy1PO2tijQ3Ly+PS2FWgTLK2R20boY+33vvvf/5z3+sVuu///1v7glo7+Q0GMKpg16vp20ILpWUSnT58uXGjRvL5ZhuktK4sydGV0tPT1dOKFFxzp4965YnTkeePXu2WbNmDt98CxcuFJeV8pDRUPt13nvvPfkKNpeYzWZqoqtWreImRdns4h9//OGbrr3kd778y8uOeNGXZ0uXyJCcvqVIGrYjdLSQd09KKmKTOuvA9CE6Opr6pLs+DjXTTz/9VN5nKtwa5aa/2rdvv3z5choLo02EderUUer+s88+q/IE2NQ/51/TufHx8VoEiA5YsGCBUmKqVatG49HsBuhDr169lAdHRkZS5lR3JY+Oz83NrVKlCreInaRZ/clXiIyG2i/y8ssve7bqk1oLNVHlm+Ojjz7yTYNU8i9f3pYb2Xu+vE1DX027a/p14Ss12nrCh9+fkIanho7J1Hnq3TecukswIx41pqSkJIeGmMczDNT+UlJSfERG2ZpQMhLj4uK+//579otGo5F0n1tpxM5V361Iv8uZ8/RbNWrUoNXsKu8hKs6VK1f+7//+TynEo0ePlvdn+rBnzx6H4860XtWz3Y101owZMxw6JbTUQURWvCujIWWveTIbPRjKZA4WjZNyM4SNGjWi3aK+ZpBKQe3Lv5pmT6d8Y0CTkoW8+53NJtW/4bl3f1eZTeqBd8+G/J544gllB3700Uc9HmsnZVm8eLGPyCgRERHx3HPPkSZywTiomIWFhdz+TrrO4MGDXcYBKC4uvuOOO5Tnqi/jd/Ymo4tUrVr16NGj8lqgg8eNG6c8uE6dOufOnfO457Npq6ZNmyobQ+fOnX3KGg21X6F79+4i00FsD0VkZKRSo1etWuWDBqkUzL58w6k5PykmheizN717N1s5NaOffvqJa0ZyA8SzxS501pIlSypcRplVOGzYMJp0pjlcZd+jDjN06FCHnvWxY8dcBiuZOnWq0q6JiYlRWUPDvqQZHk68xo0bp5ygNxqN3AACFfa1114T7PYOV1zRE6hUqdLPP/8solnlIaPdunUTnFWniw8YMEB+V/Q8X3jhBcioh/nlbXk9vevLD0+NLluixKWrs5R9Y/Pu7UrqiU3KvPvzbnv31G3++9//Klt2rVq1aFTUMwPEd2SUfjQpKYnF7lNfTr9//346l+ux6sFK6JZOnjzJrZwnpVOZ+ZWPfjBZZFVw6tQpeXnZujS2jFx+fEZGhmC3p+sfOXLE4Q5X2gnm8RrS8pDRp556yisyum3bNmWtNWrUyAfXkEo+rqFWq3XgMm/78vGpjabskvvy/E+Xff/Od0XSEE+VtMy7L3Qk1ipQlxg2bJhSdyh2jscN1NdklG0GVb9tKu8zzzyj7Op169ZV3+JCvz5y5EilQUrDI8rbZoMq3Hopuvnx48crw6mwoRJWQDrrrrvuosihIn2e3U/79u2V1tnrr78uItO+KaMWe3kvXbrUsGFD9jDpV8LCwpS7byscycd9+UFe9+VHpDn05ZV4zbufvrvwghvePbWhLl26KPvMpEmTREwPX5NRjdHvqcd+//33DpcTzpgxw2Wwkry8PG41In2gGS1OKejPDRs2ODRFlXFF6acp/CBXQBIU8YE8hyMb9KFr166BJ6PWstO7d++uLPK6devKI9hVoMko8+UHlIMv32iaY1/ewW2UHfP+VlHvvtG0HI3evbOBNmpAX3zxRRDKKLt4165dlUZlkyZNtAQr6devn7LUffr0UXZ4+vPxxx9Xvsbefvtt5Q3T9fv37688ntaWisso/eLs2bOVBm+rVq3ke4ECRkaNspiHXLOhBcWQUTXM9lwg5eTLN5yy6yfnvryKd2+zSW+Kd0+d4erVq3J3hn3YsGGDSLf0XxmlIq9du9bhcsJFixa5DFaSlpbGzpLHZ+Ii6rPgTErTNSoqqqioyFlc0W7duill9N133/VKh3dYcWzc4PLly4EqozPtEXlYs/HuUw1Ya5Q1BNvaJpsvn+HVOaW/rG3SDh3/3tYTUryQd2+LqucqIx5b4HLrrbcqe3JaWlpwyigLs9K6dWvl26VNmzZ0EfVgJQ49RJp2Z6fTFZ588knlkbQtR/nw6RsKkMrJqMtlVRqhK3BvkWCQ0Y/t23A5GWX7o6w+gw/JKDUDs8XSZ9EhL+ZTYvPyR92fNL9+Y2XLP6/P3Y/x1CYdkVrv7V2UpdmZkrLtNw73L6lnTApgGWWlVm5JoM9fffWVu8FK2CQVbXVnC78zMzOVduvtt99+4cIFh8Wks+Li4pQy+v7773tRRr/88kulU9+kSRNKuRGQMjrDvu+Ak1FvvZwCWUYNZssT/8mThthWv1eUL+/w3gS9e5uMjkyrNjYzp+iySxk1mUwtW7bE2KjyyVy6dMnhQnT1NQxs9JBiQnPnfvLJJ/Ld35SjhXvNJCQkOOu6JCgDBw5UyigtGvWWjFJ4Ae5VFBsbKy9jgMno2LFjlUUWnCEIFqe+1GR5OvGg+AS9LVxT/A1fXjz9nIntcXLTu7c59a+m1X4ra88JNQ1VCZcZzDP1ziJYy21GSZJSU1NddntalsTZ+M2bN2cpSHft2qUMTFe/fn2VnUh0VwkJCcoCCk6jczdPa+C4iuvRo0cAz9T3+muMAi259ioEX5xiotzFTycWSEM9t0lt1uKo9Hs+yD3sxeB1Zd79B1uLtHv3tHM/amJ2rl1DXa4QoG45ZswYZbdUDxAX8DJKP3Hu3LnatWsre2/fvn21BCu57777lAbpihUr6DCHE+7qvjl9//XXXyuVqH79+s6GAtyCCsWFTKR7o2zGAbb83lJWWZQQQb5utEqVKoIbt4JCRpmxVmKy9FxwUBrsoZLaxCs+dXaqbcNJiT3miJbftdjWCWjy7t/R5t3TStWoCVk5RZc0LsKnBrp69WqH2x+5GJdBJaPs4XC+HluYvW/fPpdL8T/77DNl8VlOYMptSRdk22bUpZDtMqLs89ysoOBwNrv+8ePHHcZ5Wr9+va9Zo92EN4PSubt375Z7G1Te++67T2SBVxDJKBsnNZotz3xR4Jl3b4vP9HpG2JjMlT8Wa1uwaftXatc5lxVEV/vgexdz9+TL13kre9/Jy9otYmpDp06d4ibrqY3OnDkzAPbUeyyjLF88ZengHo6WYCW//fYbRZXnomQeOHBg9OjRyifz6aefqusUFyWaO/3555/3yp76uXPnOtwcXFxcLKIpvmmNGh2FeqHGM2bMGF8bGPVdGS2zDS0i3r3NThyZph+Zvmp/sXqwJTISs3+91GLm3j1FriWPrcy/4d0L+/J/Kbu9Cfbp00c5MNS0adM///zTs57jOxGePJZRZwOFdDPVq1fXEqxk8uTJynMfffRRSl4tN0Wjo6O1PG2Hg7ZsaSolevFMVlh6GIdBUvr16+dTgfJCvTEiTI/6zJkzLEOXF9f8BZ2Myr37HvPzPfPuQ8Zk6F5LD3st/X95F5wpKX257+Tlem9nS69sv2PKrrwzVzSsk1fz7smXr/WmG768HGol69atc7jafNq0aZ7Fr6TLJicn+7WMkh7l5uZyyZromjRWqL4U/9ixY5T6WN5FCe5Rz5o1S0unZZd1aCM/88wzHhtQVMuLFi1ymNzJ4WQLhWpVTy1TTjKqs3+oXLky5RfwTOyoyDRuw9kQDz74oNUn8WkZla+C6p3kqXc/JkOyK+nXjrx7+nN30eWoiVm2DCJjd0ojUutOyv7x1BUtbriJ7RaVefdl8/LZe93x5f9a6uunPPbYY8r2HRYWtm3bNg96JjXQxMREv5ZRl8FK1INgUd8eNWoUN90v11C2JFN7YBG6LBcDhV3qs88+89juPn78OGeXycdzuflGSpDH/nQ5G+n16Pch9vK2aNGC4iu7a4PTI9q4caO8jbHLUsByXzNF/UBGySY1WyylNOPkkXdvy1j3uk1JOe+eBG7PictRb2VJI9PCxmbahlPH2kSw3tualNRiX55l2+Nkj/QcKvPlaXDA4GlSJmormzZtcpgbsl69erSL0WAwaPTuSUNPnjx59913K91Df5RR7wYrkUO3N2fOHO23x9JbcqmuyMjV6/X/+9//3Kov+t2rV6+y5NhcG9i+fTunKVS0kpKS3NzcLVu2FBQU0DcqWuZ1GZXKrtOpUydSUu0PkJpoVlaWw1kByuLnUzNL/iSjN7x7o1nIu389I3x0BvPuSUx/PHWl7tvZ0sg0uZ1LUqjVuy87YPqW49KwHdLw1FruzMurldre+mldtzxuPCngHXfcsXv3bmrQKonD5JlBjx8/zi338VMZZT/XqVMn5TpQ9ZDMzoaeucfbrFkzdzMd0UOmtCVcfnkKsUzGlEqaTK6+/vjjD26rPkv+PmzYME7j2E6tZs2a0fF6vb5jx44HDhxwOVjs9cygofZLdejQgUUhkKf/5OpC/r+2bNlCGirfbKbT6SIjI9VzxlQs/iGj3vXuySa9bodOzJJeTbW54cpJdve9++lbimq6OS+vWuTr++spHZDSVaxUqdLs2bOpYZH7Ri2SYH2VrvPVV1/RcktfyFMvLqPqwUrUkxTJJcCZKepZ3k164M8//7xSSelxjRo1ig0UMAVxWF/bt2+n/VrKna+tW7fmUhLRfS5btkz+c/SLt912m4qSlpOMSmWVUrNmzTlz5nDj+JTmgN08fTh9+vTQoUO58W52V3PnzvVNd97PZNT+9L3j3YeOSt9Y8FvB2au1Jtp8eVssO0cHM+9+/2kN3r19xqnUZDn9Z6m4HcqgdrN//356RXNKSn+2adNm2bJlylRfLL3o+vXryWqTp4D3dxllEQW5XbP0oX379vTo1A1Spa3Hkm56tlGdjr948WKrVq2USkqGZHR09Jw5c86fP++wvgwGw44dO/r06UPZp5X57mvXrp2fny/XFDrx999/b9SokSRJtPSVfpHy0KgkRyo/GZXsxadrxsTEvPPOO/v27WMJX1ktnD17dtOmTS+//PItt9xCFrT8pUhPjBII+toiJ3+VUbl3313Au5dGpd8yIYt8eduGUecHM++e4om4FEez5UbQfm/BQrfR6muuZ7Km36BBg379+v3rX/9KTk5eunTpkiVLPvzww/79+0dHR1MrDw0N5exQv5ZRzolWSiEF91VXgW+//dah7TNv3jyPbR9Sq6KiIsovr9frueuz5/bMM8+8//77S5YsWWpn1qxZAwcObNasGVtxJa8venS33HLLzp07HbrzZJhzr0m280cZbbr8ZFQnW/Mgb6Lh4eF33313p06d+vXr9+KLL3br1u3++++noWTuSCo+FXnEiBH0c745KuqXMnrDuxfYd6+zr4LSjUrXspWTvHuNM07s9rwLNdm9e/dSEFJ5Vndlf1OifoD/yigLViLfMsitXnQ2lMZyjsq3HrEt9pTXxON+Sxc/e/bso48+SqWW15dOp1OvL05Q2J/R0dG0TYuTNnkwJKW3QSjF16WMOkwNoNEaDbGb0s5KpF5eeQun3NTc8gMfxP9k1CvevY7MUm0Hu+XdlxM0unTu3LkePXqwdzW3kFCv10dERISXQZ+5YwLGqZdf/KOPPnI4l62STo6+jI+PVx/zHHEAAAzPSURBVC5OpAxRgsNwZD2VlpbSyiq5hyuvr8jISFZf9FlpkdFdxcXFUXgU5eOib2g5sMMU1iEhIQUFBRqtUSZ/bALTXRmNjIwkZ5wrMv1EWFgYlVev13NtmAYx6JR69eqtWbPGrbUNFYhfyqhXvHu3/rnr3ZcHlEHTYrF88cUXbCEha3nOxqfoVc8MIp1ORznfPZNRyvlO4wN0Yp06dbTI6HvvvUduHZnG1M0Es1oyXThz5gz5hnRj7Pr9+/d3KAR01sGDBytXrsyZovfffz+9scS7Lkt3+u2339IkIasvzj51Vl9sJWxSUhJVvUPjmr48ceKEcgCdnsPDDz9MRzoLlqqU0dDQ0B9//NHlFL+zPfUbN26kgLnsag5bKRnm9ECYnur1+mHDhlGmQqPR6Psa6scy6hXv3r1BVTe9+/Ip8vWO9Pvvv3/88cc0k6t08BlcF23duvWGDRsWLlzo2fL7CxcuyNeBu2WNOowjR8k/BKcO5MFKOLdUkqRdu3Y5S/vxz3/+U/kcli1b5sUZYVZfRqNx2bJlsbGxStF0WF90/40bN54xY8Zvv/3m0rGVDxPLr0mqtGPHDnWr3KGMqsd5cbmn/urVq8nJyR06dFBx57ny1q1bd+TIkYcOHWKz+VY/wY9lVO7dx3nq3bv1j3n3B+zevXenkjRCriK1sGvXrn333XcjRoxo2bIlTUApqVGjRrt27caNG7dz504a8vNgTz1RWlq6du3alJSU5WWkpKSsWbNGXXSo8+fn5y9evHjFihV04ooVK5YsWULRqgTNDTr91KlT8hujn1i8eDH1SW6fD63xls+EeN0UlWMwGOgRmUymrKysCRMmtG/fnnajKqlcuXLz5s2HDBmyefNmej+ZzebS0lKXt0Q/MX/+fPI2qEQNGjRQDzFF38vDenpLRg32J2k2m/fv3//xxx/HxcU1adKkatWq8re+Xq+vW7duu3btXn311XXr1lH4AmppfqShfi+jTMuuGc1PzbtZ3v2o9KhJ2VoCMJcftESUdS2DwfDzzz+npaWlpKQkJSUtXLgwMTFx2bJlGRkZx48fZ12IWrYHEZ58H+3CR/2Tm1Tx4qioM+RL7k0mU1FRUVZW1sqVKxMTExcuXJiUlJScnLx9+/ajR4/S205Zyy6hOz99+vSKFSvmzZu3bt26P/74Q8suJvm2Wm/JqFm2y4CKcOXKlcLCwj179uSUkZ+ff+7cOXkBVTYm+DJ+L6M32bu3TUyNTK8xfmf2r5cqUEaVA3BaxlXlEeA5GZ0/f74WGTU5Qst9UpgiDi8afQ6vr/wJ+RZbzhRt167dTQhkqb2+RJZbMZwNp3LHs2XF3pVRa9k9uKxrjY/FZwkEGWXe/RWD+an5+V5Mh+fAFH017dYJWVm+oaFyTCaTwWAo/SsGg0HeDeQpfTgZ9cH8Nl6Hxel44oknlCv2V65cedP2ybAtTMr6En+70CAAXc3lpah5PPDAA5yMVq5cWT1AuAfxRi12PaXoUywGlT/angErowrvfrveyd4kIQ0dkXbr+J3Zx72wX75CkK894vxZCpzh1xaBS6h0K1euVGoozWV7nJ3Ff6Hy0tyXXEarV69+6tQp78poABM4Mir37nt627un2HdRE7P2nLhUUdP03pLRQYMGKRcYUoDIAG76pBelpaUOM92vXr064N8iKs9EHvSLNLF27drq22EhowEro8y7v2wwd5vnNe+e+fKZx2z71g0mv9QaZmp16NCBMz2qVat28uTJwJZR6vYLFixQWuIPPfQQudLBaYqeP3++Tp063PrZe+65Rz0oAWQ0kGX0undvscXMt6/MF/XuyZe/bfzOXeTLexo/tMJhe72rVavG9RnBXOe+D4vSwm0bpQ+0WybYTFHWJPLz8+V+Cb1jnnjiCfX2ABkNcBm9ESxH2Lv3KV9eUOMcZkajD8OHDw9sHaGiffDBB8qyM70I1FeIyybBZUOg0R5KDqgy5QgZDXwZZTHzRbx7n/LlyXDweGaTRSOlyQTOHFu7dm0AyyjLbk87WbnEQd98800Al11LtHmK0sC9XVxmPYGMBoWMyr376yvz3fHu2by8j/jyBoMhPz+fialbq7Jp45PVap01a5ZyZLBx48aXL9u2EgSqOUYdftKkSUqxoHRGATwi7Axab2S1WpcuXeowRJPLnHSQ0WCR0RtzkSZzjwVuePfky9eamLW7qOJ9eWqv27dvp1gbR44ckefddSkBtD6R0ktwIXzIfXvvvfcCeMUoC4jH5eykD5s3bw42U1QeeX7RokUU45nbidCmTRs6GGOjGglwGSWb1GS2XDVcV1KX3n1ZTros2qdUsb48tWOTyfTII49Qc69WrdpLL72UkZEhn0glreSQH5CYmFi5cmXlLvKGDRsqw7AHEg6T2msJSBqoUEVnZ2c//fTTyti19GYlj1797QJrNLhk9C/57hfkS0PU9t1fzy/vpZx04nAB3lmj1+l0bdq0mTZtWlpaGu2b5mC7mDdu3Eibdhx2GIr4GajmGEnk3r17KZcGZ4qqR3cPPGjr1K5du3r37k21zzUJers0b95cSwIVyGjQyShbma/u3dv2y/uML89U4PTp0/JgycrWX7t27UceeeTFF1986623Pvnkkzlz5syaNWvs2LG9evVq0KABsz2VGhofHx/Y5hgV7R//+IfSFO3du3dgl119B5cyAj81D71ev23bNi1PBjIajDIq9+7jHHn35MvX8g1fXt5Sp06dSu2b23cUFhZG8e2dBQCmvkFhxuXf0J9/+9vfaMd9YLvzqampDmNap6amBpWMUi0XFxdHR0c7zA5Lj0h7aAXIaJDKqDxmftz8v3j319fYTyibl69oO5RLPBsfHy8PeKxMW0bRxZVwEZ3ZN4MHDyYBDVQNZRL55JNPKk3Rnj17BpWGyoWPS9nEmlONGjVWrVqlfbIRMhq8Msq8+xKTXUnt3j3z5XN8w5fnIKXLy8sbMGAAl/RCJXcIZ2swpz4qKio5OTngF5xTJ//mm28cruYhUzR4RkW5PMy0fpbC49PD6dSpE60A0f5MIKNBLaO07/6Gdx+/Qxpl01CyQ33Bl+cwm80lJSVkOh07dmzGjBlt27aNiIhQaqUzU5Q+1K9ff/LkyWfPnqVoFAGsoSxs6IMPPqjMGBpso6LOdnORf9O4ceNFixbR7BOtxnfrUhThKcQux5RmSpKk7t27B9sTDkYZJe/etovDZOm+IL/q+J177aHsfcSXdxnH12w2Hzp0KDExcdCgQZTpWz76KXf2a9Socd999w0aNGjNmjWUoYFWm1oDGirg8uXLKepKZTtVqlSpVKlStWrV9uzZE2yd3KFB2qhRo8TERMpT4sHuOPWUdtYge8JBKqM3wttcNuSfqbDESu7iMJB4cXHxvn37tm7dunr16qSkpAULFnzxxRdr165NT0//9ddf5a05gCeU5FAZi4qK8vLyDh06VFDGwYMHCwsLg+EJqEDFz83NLS4u1hIeX/06Fy9eTE9PzygjMzMzNTX14MGD1iAjeGWUpNNoD6zny3aoEtodX2KHi2+vPNJgMJSUlPhdjrBywmPVCCTobWoymUpKSoL8peItglpGacbJL+xQLRkplLuYglky6LEoqej78gm8lQjLYQosc/A95GCXUQAAEAQyCgAAQkBGAQBACMgoAAAIARkFAAAhIKMAACAEZBQAAISAjAIAgBCQUQAAEAIyCgAAQkBGAQBACMgoAAAIARkFAAAhIKMAACAEZBQAACCjAABQccAaBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACEgIwCAIAQkFEAABACMgoAAEJARgEAQAjIKAAACAEZBQAAISCjAAAgBGQUAACsIvw/OebrtR/lx0YAAAAASUVORK5CYII=');">
+                                    <span style="display: none;">Hack to avoid self-closing empty div, do not remove</span>
+                                    <div class="infos">
+                                        <div class="title">gihyo.jp</div>
+                                        <div class="description">技術評論社提供のIT関連コンテンツサイト</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="date">21:10:14 on 14 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -434,13 +488,13 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 83 days
+                            Current streak 84 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 91 days
+                            Best streak 84 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -458,7 +512,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~5.57
+                            Average per day at ~5.45
                         </div>
                     </section>
                 </div>
@@ -479,43 +533,6 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                     </filter>
                     <g transform="scale(4) translate(12, 0)">
                         <g transform="translate(0, 0)">
-                            <g transform="translate(0, 5.63265306122449)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 4.795918367346939)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.204081632653061 0,3.2040816326530615 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2040816326530615 1.7,4.204081632653061 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 7.387755102040816)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.612244897959184 0,1.6122448979591837 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6122448979591837 1.7,2.612244897959184 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 7.530612244897959)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4693877551020407 0,2.4693877551020407 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4693877551020407 1.7,3.4693877551020407 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 9.387755102040817)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.612244897959184 0,1.6122448979591837 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6122448979591837 1.7,2.612244897959184 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 10.510204081632654)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.489795918367347 0,1.489795918367347 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.489795918367347 1.7,2.489795918367347 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 10.89795918367347)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1020408163265305 0,2.1020408163265305 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1020408163265305 1.7,3.1020408163265305 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(1.7, 1)">
                             <g transform="translate(0, 5.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
@@ -532,9 +549,9 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3469387755102042 1.7,3.3469387755102042 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.510204081632654)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.489795918367347 0,1.489795918367347 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.489795918367347 1.7,2.489795918367347 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.489795918367347 0,1.489795918367347 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.489795918367347 1.7,2.489795918367347 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -552,7 +569,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(3.4, 2)">
+                        <g transform="translate(1.7, 1)">
                             <g transform="translate(0, 5.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
@@ -589,7 +606,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(5.1, 3)">
+                        <g transform="translate(3.4, 2)">
                             <g transform="translate(0, 5.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
@@ -626,11 +643,11 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(6.8, 4)">
+                        <g transform="translate(5.1, 3)">
                             <g transform="translate(0, 5.020408163265307)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.979591836734694 0,1.9795918367346939 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9795918367346939 1.7,2.979591836734694 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.979591836734694 0,1.9795918367346939 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9795918367346939 1.7,2.979591836734694 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -663,7 +680,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.836734693877551 1.7,3.836734693877551 z"/>
                             </g>
                         </g>
-                        <g transform="translate(8.5, 5)">
+                        <g transform="translate(6.8, 4)">
                             <g transform="translate(0, 5.755102040816326)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2448979591836733 0,1.2448979591836735 z"/>
@@ -700,7 +717,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6122448979591837 1.7,2.612244897959184 z"/>
                             </g>
                         </g>
-                        <g transform="translate(10.2, 6)">
+                        <g transform="translate(8.5, 5)">
                             <g transform="translate(0, 5.755102040816326)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2448979591836733 0,1.2448979591836735 z"/>
@@ -737,7 +754,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
                             </g>
                         </g>
-                        <g transform="translate(11.9, 7)">
+                        <g transform="translate(10.2, 6)">
                             <g transform="translate(0, 5.387755102040816)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.612244897959184 0,1.6122448979591837 z"/>
@@ -774,7 +791,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1020408163265305 1.7,3.1020408163265305 z"/>
                             </g>
                         </g>
-                        <g transform="translate(13.6, 8)">
+                        <g transform="translate(11.9, 7)">
                             <g transform="translate(0, 5.63265306122449)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
@@ -811,7 +828,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
                             </g>
                         </g>
-                        <g transform="translate(15.299999999999999, 9)">
+                        <g transform="translate(13.6, 8)">
                             <g transform="translate(0, 5.387755102040816)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.612244897959184 0,1.6122448979591837 z"/>
@@ -848,7 +865,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3469387755102042 1.7,3.3469387755102042 z"/>
                             </g>
                         </g>
-                        <g transform="translate(17, 10)">
+                        <g transform="translate(15.299999999999999, 9)">
                             <g transform="translate(0, 5.387755102040816)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.612244897959184 0,1.6122448979591837 z"/>
@@ -885,7 +902,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9795918367346939 1.7,2.979591836734694 z"/>
                             </g>
                         </g>
-                        <g transform="translate(18.7, 11)">
+                        <g transform="translate(17, 10)">
                             <g transform="translate(0, 5.755102040816326)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2448979591836733 0,1.2448979591836735 z"/>
@@ -922,7 +939,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(20.4, 12)">
+                        <g transform="translate(18.7, 11)">
                             <g transform="translate(0, 5.63265306122449)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
@@ -959,7 +976,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
                             </g>
                         </g>
-                        <g transform="translate(22.099999999999998, 13)">
+                        <g transform="translate(20.4, 12)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -996,7 +1013,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(23.8, 14)">
+                        <g transform="translate(22.099999999999998, 13)">
                             <g transform="translate(0, 5.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
@@ -1033,7 +1050,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.326530612244898 1.7,4.326530612244898 z"/>
                             </g>
                         </g>
-                        <g transform="translate(25.5, 15)">
+                        <g transform="translate(23.8, 14)">
                             <g transform="translate(0, 5.142857142857143)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
@@ -1070,11 +1087,11 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.061224489795919 1.7,5.061224489795919 z"/>
                             </g>
                         </g>
-                        <g transform="translate(27.2, 16)">
+                        <g transform="translate(25.5, 15)">
                             <g transform="translate(0, 5.142857142857143)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.510204081632653)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1092,14 +1109,14 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                             <g transform="translate(-6.8, 8.53061224489796)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4693877551020407 0,2.4693877551020407 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4693877551020407 1.7,3.4693877551020407 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4693877551020407 0,2.4693877551020407 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4693877551020407 1.7,3.4693877551020407 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.653061224489797)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3469387755102042 0,2.3469387755102042 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3469387755102042 1.7,3.3469387755102042 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3469387755102042 0,2.3469387755102042 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3469387755102042 1.7,3.3469387755102042 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.387755102040817)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1107,7 +1124,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6122448979591837 1.7,2.612244897959184 z"/>
                             </g>
                         </g>
-                        <g transform="translate(28.9, 17)">
+                        <g transform="translate(27.2, 16)">
                             <g transform="translate(0, 5.26530612244898)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7346938775510203 0,1.7346938775510203 z"/>
@@ -1144,7 +1161,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
                             </g>
                         </g>
-                        <g transform="translate(30.599999999999998, 18)">
+                        <g transform="translate(28.9, 17)">
                             <g transform="translate(0, 4.285714285714286)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
@@ -1181,7 +1198,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.9591836734693877 1.7,3.9591836734693877 z"/>
                             </g>
                         </g>
-                        <g transform="translate(32.3, 19)">
+                        <g transform="translate(30.599999999999998, 18)">
                             <g transform="translate(0, 4.285714285714286)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
@@ -1218,16 +1235,16 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(34, 20)">
+                        <g transform="translate(32.3, 19)">
                             <g transform="translate(0, 4.8979591836734695)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1020408163265305 0,2.1020408163265305 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1020408163265305 1.7,3.1020408163265305 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1020408163265305 0,2.1020408163265305 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1020408163265305 1.7,3.1020408163265305 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.775510204081632)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2244897959183674 0,2.2244897959183674 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2244897959183674 1.7,3.2244897959183674 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2244897959183674 0,2.2244897959183674 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2244897959183674 1.7,3.2244897959183674 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.755102040816326)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1245,9 +1262,9 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2448979591836735 1.7,2.2448979591836733 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.653061224489797)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3469387755102042 0,2.3469387755102042 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3469387755102042 1.7,3.3469387755102042 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3469387755102042 0,2.3469387755102042 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3469387755102042 1.7,3.3469387755102042 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1255,7 +1272,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(35.699999999999996, 21)">
+                        <g transform="translate(34, 20)">
                             <g transform="translate(0, 5.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
@@ -1292,7 +1309,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(37.4, 22)">
+                        <g transform="translate(35.699999999999996, 21)">
                             <g transform="translate(0, 5.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
@@ -1329,7 +1346,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(39.1, 23)">
+                        <g transform="translate(37.4, 22)">
                             <g transform="translate(0, 5.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
@@ -1366,16 +1383,16 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(40.8, 24)">
+                        <g transform="translate(39.1, 23)">
                             <g transform="translate(0, 5.142857142857143)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.63265306122449)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1383,14 +1400,14 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.755102040816325)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2448979591836733 0,1.2448979591836735 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2448979591836735 1.7,2.2448979591836733 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2448979591836733 0,1.2448979591836735 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2448979591836735 1.7,2.2448979591836733 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.755102040816325)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2448979591836733 0,1.2448979591836735 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2448979591836735 1.7,2.2448979591836733 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2448979591836733 0,1.2448979591836735 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2448979591836735 1.7,2.2448979591836733 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1403,7 +1420,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(42.5, 25)">
+                        <g transform="translate(40.8, 24)">
                             <g transform="translate(0, 5.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
@@ -1440,7 +1457,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
-                        <g transform="translate(44.199999999999996, 26)">
+                        <g transform="translate(42.5, 25)">
                             <g transform="translate(0, 5.877551020408163)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
@@ -1460,6 +1477,11 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7346938775510203 0,1.7346938775510203 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7346938775510203 1.7,2.7346938775510203 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 9.877551020408163)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.122448979591837 0,1.1224489795918366 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1224489795918366 1.7,2.122448979591837 z"/>
                             </g>
                         </g>
                     </g>
@@ -1657,7 +1679,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.985 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.3725 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1676,7 +1698,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
                                     <span class="prefix">Super</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 874 repositories</div>
+                                <div class="text">Starred 879 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1805,7 +1827,7 @@ Lang: TypeScript, Rust, PowerShell, Python</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jul 2022, 20:26:51 (timezone Asia/Tokyo) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 19:31:26 (timezone Asia/Tokyo) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
