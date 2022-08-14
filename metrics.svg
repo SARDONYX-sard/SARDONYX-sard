@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2022" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2029" class="">
     <defs>
         <style/>
     </defs>
@@ -411,14 +411,6 @@ But I'm still a novice.</div>
                             SARDONYX_sard
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@SARDONYX_sard</span>
-                            : Detecting and Preventing Web Application Security Problems (2012)
-                            <br />
-                            Chapter 2. HTML Injection &amp; Cross-Site Scripting (XSS)…
-                            <div class="date">18:36:29 on 14 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
                             僕は後どれだけの時間を書ければRISC-Vを理解できるんだろうね…（´・ω・｀）
                             <div class="date">21:53:33 on 13 Aug 2022</div>
                         </div>
@@ -447,6 +439,13 @@ But I'm still a novice.</div>
                             <span class="mention">@qnighy</span>
                             : Perl (Rakuを除く) の正規表現の構文を踏襲した各種正規表現の総称って何て呼ぶのがいいんだろう。「Perl互換」だと、厳密には互換とは言えない上に、「Perl互換」という名前の正規表現エンジンがあるので紛らわしい
                             <div class="date">21:39:23 on 13 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            4,250円もあれば新しい技術書買えるんですけども…
+                            <br />
+                            <br />
+                            正直不服…（´・ω・｀）
+                            <div class="date">20:30:35 on 13 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1851,7 +1850,7 @@ But I'm still a novice.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Aug 2022, 20:00:54 (timezone Asia/Tokyo) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Aug 2022, 20:23:46 (timezone Asia/Tokyo) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
