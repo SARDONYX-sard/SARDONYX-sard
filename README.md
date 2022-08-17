@@ -113,13 +113,13 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 908 Contributions in the Year 2022
  > 
-> 📦 205.8 kB Used in GitHub's Storage 
+> 📦 207.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -188,7 +188,7 @@ PowerShell               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 11:02:38 UTC
+ Last Updated on 17/08/2022 11:28:20 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
