@@ -119,7 +119,7 @@
 
 > 🏆 911 Contributions in the Year 2022
  > 
-> 📦 210.2 kB Used in GitHub's Storage 
+> 📦 203.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -189,7 +189,7 @@ PowerShell               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2022 11:00:58 UTC
+ Last Updated on 20/08/2022 11:27:19 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
