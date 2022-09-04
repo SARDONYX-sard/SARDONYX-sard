@@ -113,13 +113,13 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,067 Contributions in the Year 2022
+> 🏆 1,069 Contributions in the Year 2022
  > 
-> 📦 202.9 kB Used in GitHub's Storage 
+> 📦 204.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -127,51 +127,6 @@
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-🌆 Daytime    312 commits    ███████░░░░░░░░░░░░░░░░░░   30.53% 
-🌃 Evening    225 commits    █████░░░░░░░░░░░░░░░░░░░░   22.02% 
-🌙 Night      421 commits    ██████████░░░░░░░░░░░░░░░   41.19%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       210 commits    █████░░░░░░░░░░░░░░░░░░░░   20.55% 
-Tuesday      95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
-Wednesday    104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
-Thursday     220 commits    █████░░░░░░░░░░░░░░░░░░░░   21.53% 
-Friday       168 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
-Saturday     141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
-Sunday       84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.22%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Rust                     6 hrs 51 mins       █████████████░░░░░░░░░░░░   53.5% 
-Docker                   2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-Assembly                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
-
-🔥 Editors: 
-VS Code                  12 hrs 36 mins      ████████████████████████░   98.31% 
-Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
-
-💻 Operating System: 
-WSL                      9 hrs 47 mins       ███████████████████░░░░░░   76.35% 
-Windows                  3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.65%
-
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -189,7 +144,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 11:25:58 UTC
+ Last Updated on 04/09/2022 10:29:15 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
