@@ -113,13 +113,13 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,073 Contributions in the Year 2022
+> 🏆 1,074 Contributions in the Year 2022
  > 
-> 📦 206.5 kB Used in GitHub's Storage 
+> 📦 207.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -140,12 +140,12 @@
 
 ```text
 Monday       213 commits    █████░░░░░░░░░░░░░░░░░░░░   20.84% 
-Tuesday      95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+Tuesday      96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
 Wednesday    104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.18% 
 Thursday     220 commits    █████░░░░░░░░░░░░░░░░░░░░   21.53% 
 Friday       165 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.14% 
 Saturday     140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
-Sunday       85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.32%
+Sunday       84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.22%
 
 ```
 
@@ -189,7 +189,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 11:03:42 UTC
+ Last Updated on 06/09/2022 10:33:34 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
