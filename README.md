@@ -113,13 +113,13 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,155 Contributions in the Year 2022
+> 🏆 1,173 Contributions in the Year 2022
  > 
-> 📦 211.3 kB Used in GitHub's Storage 
+> 📦 205.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -131,18 +131,18 @@
 
 ```text
 🌞 Morning    60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.87% 
-🌆 Daytime    299 commits    ███████░░░░░░░░░░░░░░░░░░   29.26% 
-🌃 Evening    233 commits    █████░░░░░░░░░░░░░░░░░░░░   22.8% 
-🌙 Night      430 commits    ██████████░░░░░░░░░░░░░░░   42.07%
+🌆 Daytime    296 commits    ███████░░░░░░░░░░░░░░░░░░   28.96% 
+🌃 Evening    232 commits    █████░░░░░░░░░░░░░░░░░░░░   22.7% 
+🌙 Night      434 commits    ██████████░░░░░░░░░░░░░░░   42.47%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       196 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.18% 
-Tuesday      120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
-Wednesday    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
-Thursday     205 commits    █████░░░░░░░░░░░░░░░░░░░░   20.06% 
+Tuesday      119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
+Wednesday    110 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+Thursday     189 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
 Friday       164 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
 Saturday     148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
 Sunday       96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.39%
@@ -188,7 +188,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2022 11:13:35 UTC
+ Last Updated on 08/09/2022 10:33:00 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
