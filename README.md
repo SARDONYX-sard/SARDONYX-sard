@@ -113,17 +113,17 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,421 Contributions in the Year 2022
+> 🏆 1,422 Contributions in the Year 2022
  > 
-> 📦 209.2 kB Used in GitHub's Storage 
+> 📦 209.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -156,19 +156,19 @@ Sunday       95 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     29 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.57% 
-TypeScript               11 hrs 17 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-JSON                     6 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
-Lua                      5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
-Assembly                 2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
+Rust                     37 hrs 9 mins       █████████████░░░░░░░░░░░░   51.52% 
+TypeScript               12 hrs              ████░░░░░░░░░░░░░░░░░░░░░   16.66% 
+JSON                     8 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
+Lua                      2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
+Assembly                 2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
 
 🔥 Editors: 
-VS Code                  62 hrs 18 mins      ███████████████████████░░   93.89% 
-Neovim                   4 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.11%
+VS Code                  71 hrs 5 mins       ████████████████████████░   98.6% 
+Neovim                   1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 
 💻 Operating System: 
-Windows                  44 hrs 54 mins      █████████████████░░░░░░░░   67.66% 
-WSL                      21 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   32.34%
+Windows                  50 hrs 38 mins      █████████████████░░░░░░░░   70.24% 
+WSL                      21 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.76%
 
 ```
 
@@ -189,7 +189,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 11:24:45 UTC
+ Last Updated on 05/10/2022 10:36:18 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
