@@ -113,13 +113,13 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C304%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C304%20hrs%2017%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 1,431 Contributions in the Year 2022
  > 
-> 📦 208.4 kB Used in GitHub's Storage 
+> 📦 208.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -156,17 +156,18 @@ Sunday       95 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     32 hrs 2 mins       ████████████░░░░░░░░░░░░░   51.05% 
-TypeScript               8 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-JSON                     6 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
-Other                    5 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
-JavaScript               3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
+Rust                     23 hrs 45 mins      ███████████░░░░░░░░░░░░░░   45.39% 
+TypeScript               8 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
+Other                    5 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+JSON                     5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
+JavaScript               3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.43%
 
 🔥 Editors: 
-VS Code                  62 hrs 45 mins      █████████████████████████   100.0%
+VS Code                  52 hrs 20 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  62 hrs 45 mins      █████████████████████████   100.0%
+Windows                  52 hrs 14 mins      █████████████████████████   99.81% 
+WSL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 ```
 
@@ -187,7 +188,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2022 11:25:24 UTC
+ Last Updated on 11/10/2022 10:35:28 UTC
 <!--END_SECTION:waka-->
 
 [![Metrics](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml/badge.svg)](https://github.com/SARDONYX-sard/SARDONYX-sard/actions/workflows/main.yaml)
