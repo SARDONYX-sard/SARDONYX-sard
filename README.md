@@ -1,17 +1,3 @@
-<p align="center">
-  <a href="http://github.com/SARDONYX-sard/SARDONYX-sard" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=SARDONYX-sard&color=8A6D99" alt="SARDONYX-sard" height="24"/>
-  </a>
-  <a href="https://twitter.com/SARDONYX_sard/">
-    <img src="https://img.shields.io/twitter/follow/SARDONYX_sard?color=1d9bf0&logo=twitter&style=flat" height="24">
-  </a>
-  <a href="https://github.com/SARDONYX-sard?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/SARDONYX-sard?color=%231c2128&logo=GitHub&style=flat" height="24">
-  </a>
-</p>
-
-<li style="font-size: 1.5rem;"> Hello friends. I am a Japanese who loves TypeScript. (b・ω・)b </li>
-
 ## Languages (Based on the [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition))
 
 <p>
@@ -92,10 +78,10 @@
   </a>
 </p>
 
-## Stats
+<!-- ## Stats -->
 
-[![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- [![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<!-- [![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![profile](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
 ## Metrics
 
