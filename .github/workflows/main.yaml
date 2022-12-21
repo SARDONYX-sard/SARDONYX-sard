@@ -1,4 +1,4 @@
-name: Profilie
+name: Profile
 
 on:
   workflow_dispatch:
