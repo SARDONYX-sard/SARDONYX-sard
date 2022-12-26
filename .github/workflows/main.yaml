@@ -1,4 +1,4 @@
-name: Profile
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -15,13 +15,13 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_COMMIT: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE: true
-          SHOW_LANGUAGE_PER_REPO: true
-          SHOW_LOC_CHART: true
-          SHOW_OS: true
-          SHOW_PROFILE_VIEWS: true
-          SHOW_PROJECTS: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_UPDATED_DATE: true
+          SHOW_COMMIT: "true"
+          SHOW_EDITORS: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_LANGUAGE_PER_REPO: "true"
+          SHOW_LOC_CHART: "true"
+          SHOW_OS: "true"
+          SHOW_PROFILE_VIEWS: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_UPDATED_DATE: "true"
