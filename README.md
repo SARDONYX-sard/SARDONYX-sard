@@ -1,11 +1,11 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C964%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C964%20hrs%2048%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 221.9 kB Used in GitHub's Storage 
+> 📦 222.1 kB Used in GitHub's Storage 
  > 
 > 🏆 377 Contributions in the Year 2023
  > 
@@ -42,15 +42,17 @@ Sunday                   956 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   25 mins             █████████████████████████   100.00 % 
+Python                   25 mins             ███████████████████░░░░░░   75.35 % 
+Rust                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/08/2023 19:10:52 UTC
+ Last Updated on 16/08/2023 19:11:34 UTC
 <!--END_SECTION:waka-->
