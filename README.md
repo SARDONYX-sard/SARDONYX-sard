@@ -1,11 +1,11 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C369%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C367%20hrs-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 217.2 kB Used in GitHub's Storage 
+> 📦 217.4 kB Used in GitHub's Storage 
  > 
 > 🏆 808 Contributions in the Year 2023
  > 
@@ -56,5 +56,5 @@ Windows                  4 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 29/11/2023 19:11:35 UTC
+ Last Updated on 30/11/2023 19:10:49 UTC
 <!--END_SECTION:waka-->
