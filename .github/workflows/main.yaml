@@ -19,7 +19,7 @@ jobs:
           SHOW_EDITORS: "true"
           SHOW_LANGUAGE: "true"
           SHOW_LANGUAGE_PER_REPO: "false"
-          SHOW_LOC_CHART: "false" # To error due to bugs(https://github.com/anmol098/waka-readme-stats/issues/337)
+          SHOW_LOC_CHART: "true" # To error due to bugs(https://github.com/anmol098/waka-readme-stats/issues/337)
           SHOW_OS: "true"
           SHOW_PROFILE_VIEWS: "false"
           SHOW_PROJECTS: "false"
