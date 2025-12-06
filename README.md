@@ -1,11 +1,11 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C705%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C706%20hrs%2054%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 305.7 kB Used in GitHub's Storage 
+> 📦 305.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,499 Contributions in the Year 2025
  > 
@@ -60,5 +60,5 @@ Windows                  2 hrs 24 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2025 19:18:03 UTC
+ Last Updated on 06/12/2025 19:16:02 UTC
 <!--END_SECTION:waka-->
