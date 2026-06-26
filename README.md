@@ -1,11 +1,11 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C457%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C462%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 310.8 kB Used in GitHub's Storage 
+> 📦 311.1 kB Used in GitHub's Storage 
  > 
 > 🏆 558 Contributions in the Year 2026
  > 
@@ -42,18 +42,18 @@ Sunday                   1522 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     30 hrs 13 mins      ███████████████████████░░   93.98 % 
-JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Rust                     29 hrs 55 mins      ███████████████████████░░   93.08 % 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
 VS Code                  32 hrs 9 mins       █████████████████████████   99.99 % 
 Visual                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  32 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -61,5 +61,5 @@ Windows                  32 hrs 10 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 20:58:57 UTC
+ Last Updated on 26/06/2026 20:49:00 UTC
 <!--END_SECTION:waka-->
