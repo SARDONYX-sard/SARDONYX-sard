@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 313.0 kB Used in GitHub's Storage 
+> 📦 313.1 kB Used in GitHub's Storage 
  > 
 > 🏆 645 Contributions in the Year 2026
  > 
@@ -16,21 +16,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1100 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-🌆 Daytime                3636 commits        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-🌃 Evening                3108 commits        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌙 Night                  4012 commits        ████████░░░░░░░░░░░░░░░░░   33.84 % 
+🌞 Morning                1152 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+🌆 Daytime                3830 commits        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+🌃 Evening                3266 commits        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+🌙 Night                  4297 commits        █████████░░░░░░░░░░░░░░░░   34.25 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2052 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Tuesday                  1852 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Wednesday                1720 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 1510 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Friday                   1694 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Saturday                 1330 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Sunday                   1698 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Monday                   2125 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Tuesday                  1970 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Wednesday                1832 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Thursday                 1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   1814 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Saturday                 1407 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Sunday                   1797 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 ```
 
 
@@ -40,17 +40,17 @@ Sunday                   1698 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     11 hrs 9 mins       ███████████████████████░░   91.53 % 
-TOML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Rust                     9 hrs 26 mins       ███████████████████████░░   93.05 % 
+TOML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -58,5 +58,5 @@ Windows                  12 hrs 11 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:15:42 UTC
+ Last Updated on 24/07/2026 20:22:32 UTC
 <!--END_SECTION:waka-->
