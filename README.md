@@ -1,13 +1,13 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C548%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C549%20hrs%206%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 313.4 kB Used in GitHub's Storage 
+> 📦 313.7 kB Used in GitHub's Storage 
  > 
-> 🏆 646 Contributions in the Year 2026
+> 🏆 658 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,21 +18,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1152 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-🌆 Daytime                3831 commits        ████████░░░░░░░░░░░░░░░░░   30.54 % 
-🌃 Evening                3266 commits        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-🌙 Night                  4297 commits        █████████░░░░░░░░░░░░░░░░   34.25 % 
+🌞 Morning                1152 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+🌆 Daytime                3831 commits        ████████░░░░░░░░░░░░░░░░░   30.51 % 
+🌃 Evening                3266 commits        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+🌙 Night                  4307 commits        █████████░░░░░░░░░░░░░░░░   34.30 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2125 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Tuesday                  1970 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Wednesday                1832 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Thursday                 1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Friday                   1814 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Saturday                 1408 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Sunday                   1797 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Monday                   2136 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Tuesday                  1970 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Wednesday                1832 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Thursday                 1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Friday                   1814 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Saturday                 1408 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Sunday                   1796 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 ```
 
 
@@ -42,17 +42,17 @@ Sunday                   1797 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     9 hrs 26 mins       ███████████████████████░░   93.05 % 
-TOML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Rust                     5 hrs 29 mins       ███████████████████████░░   90.10 % 
+C++                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -60,5 +60,5 @@ Windows                  10 hrs 8 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 20:13:52 UTC
+ Last Updated on 26/07/2026 20:11:12 UTC
 <!--END_SECTION:waka-->
