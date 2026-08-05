@@ -1,13 +1,13 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C443%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C450%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 301.9 kB Used in GitHub's Storage 
+> 📦 302.1 kB Used in GitHub's Storage 
  > 
 > 🏆 675 Contributions in the Year 2026
  > 
@@ -44,17 +44,17 @@ Sunday                   1668 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     12 hrs 27 mins      █████████████████████░░░░   85.57 % 
-C++                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-C#                       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-PowerShell               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Rust                     11 hrs 54 mins      ██████████████████████░░░   86.00 % 
+C#                       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+PowerShell               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,5 +68,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:26:48 UTC
+ Last Updated on 05/08/2026 20:28:17 UTC
 <!--END_SECTION:waka-->
