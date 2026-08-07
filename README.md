@@ -1,9 +1,13 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C452%20hrs%209%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%203%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 302.3 kB Used in GitHub's Storage 
+> 📦 302.6 kB Used in GitHub's Storage 
  > 
 > 🏆 675 Contributions in the Year 2026
  > 
@@ -40,17 +44,17 @@ Sunday                   1668 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     7 hrs 47 mins       ██████████████████████░░░   86.36 % 
-C#                       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-TOML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-C++                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Rust                     8 hrs 59 mins       ██████████████████████░░░   87.94 % 
+C#                       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+TOML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+C++                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  10 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  10 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,5 +68,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:44:30 UTC
+ Last Updated on 07/08/2026 19:55:34 UTC
 <!--END_SECTION:waka-->
