@@ -1,15 +1,15 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C492%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C499%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 304.8 kB Used in GitHub's Storage 
+> 📦 305.5 kB Used in GitHub's Storage 
  > 
-> 🏆 709 Contributions in the Year 2026
+> 🏆 726 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,21 +20,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1037 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-🌆 Daytime                3507 commits        ████████░░░░░░░░░░░░░░░░░   30.05 % 
-🌃 Evening                3083 commits        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-🌙 Night                  4045 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
+🌞 Morning                1447 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+🌆 Daytime                4219 commits        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+🌃 Evening                3791 commits        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+🌙 Night                  4789 commits        ████████░░░░░░░░░░░░░░░░░   33.62 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2078 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Tuesday                  1818 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Wednesday                1676 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Thursday                 1487 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Friday                   1628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Saturday                 1305 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Sunday                   1680 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Monday                   2558 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Tuesday                  2337 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Wednesday                2050 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Thursday                 1812 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Friday                   1913 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 1546 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Sunday                   2030 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 ```
 
 
@@ -44,17 +44,17 @@ Sunday                   1680 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     27 hrs 38 mins      ████████████████████░░░░░   78.13 % 
-C++                      2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-C#                       1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-C                        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Rust                     24 hrs 57 mins      ██████████████████░░░░░░░   72.73 % 
+C++                      3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+C#                       1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+PowerShell               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+C                        57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  35 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,5 +68,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 19:23:32 UTC
+ Last Updated on 17/08/2026 19:30:53 UTC
 <!--END_SECTION:waka-->
