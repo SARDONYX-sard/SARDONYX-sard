@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 306.2 kB Used in GitHub's Storage 
+> 📦 306.3 kB Used in GitHub's Storage 
  > 
 > 🏆 730 Contributions in the Year 2026
  > 
@@ -44,17 +44,17 @@ Sunday                   2031 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     8 hrs 46 mins       ███████████████████░░░░░░   76.91 % 
-Lua                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-C++                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-PowerShell               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Rust                     6 hrs 31 mins       ██████████████████░░░░░░░   71.52 % 
+Lua                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+C++                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+PowerShell               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,5 +68,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:34:45 UTC
+ Last Updated on 26/08/2026 21:42:17 UTC
 <!--END_SECTION:waka-->
