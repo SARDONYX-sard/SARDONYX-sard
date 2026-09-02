@@ -1,15 +1,15 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C530%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C534%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 307.9 kB Used in GitHub's Storage 
+> 📦 308.3 kB Used in GitHub's Storage 
  > 
-> 🏆 754 Contributions in the Year 2026
+> 🏆 762 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,21 +20,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1050 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-🌆 Daytime                3516 commits        ████████░░░░░░░░░░░░░░░░░   30.00 % 
-🌃 Evening                3063 commits        ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-🌙 Night                  4091 commits        █████████░░░░░░░░░░░░░░░░   34.91 % 
+🌞 Morning                1046 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+🌆 Daytime                3516 commits        ████████░░░░░░░░░░░░░░░░░   30.03 % 
+🌃 Evening                3063 commits        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+🌙 Night                  4083 commits        █████████░░░░░░░░░░░░░░░░   34.87 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2141 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Tuesday                  1834 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Wednesday                1666 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 1473 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Friday                   1607 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Saturday                 1306 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Sunday                   1693 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Monday                   2139 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Tuesday                  1831 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Wednesday                1671 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Thursday                 1470 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Friday                   1601 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Saturday                 1306 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Sunday                   1690 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 ```
 
 
@@ -44,18 +44,18 @@ Sunday                   1693 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     11 hrs 17 mins      █████████████████████░░░░   82.95 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Lua                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Rust                     11 hrs 17 mins      █████████████████░░░░░░░░   67.81 % 
+C++                      2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Lua                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 53 mins      ████████████████████████░   94.76 % 
-Zed                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+VS Code                  15 hrs 56 mins      ████████████████████████░   95.71 % 
+Zed                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 💻 Operating System: 
-Windows                  13 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +69,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:39:16 UTC
+ Last Updated on 02/09/2026 21:39:30 UTC
 <!--END_SECTION:waka-->
