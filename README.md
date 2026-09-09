@@ -1,7 +1,7 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C560%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C568%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%203%20mins-blue?style=flat)
 
@@ -44,17 +44,17 @@ Sunday                   1690 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C++                      13 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   41.51 % 
-Rust                     13 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   39.30 % 
-Python                   1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Praat                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Lua                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Rust                     13 hrs 12 mins      ███████████░░░░░░░░░░░░░░   43.20 % 
+C++                      11 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   37.67 % 
+Python                   1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Praat                    1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Lua                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  30 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  33 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,5 +68,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:37:32 UTC
+ Last Updated on 09/09/2026 21:34:40 UTC
 <!--END_SECTION:waka-->
