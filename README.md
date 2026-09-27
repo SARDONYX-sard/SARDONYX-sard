@@ -44,17 +44,18 @@ Sunday                   1783 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C#                       6 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.94 % 
-C++                      3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-Rust                     3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Lua                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+C#                       7 hrs 8 mins        █████████████████░░░░░░░░   66.78 % 
+Rust                     3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+C++                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 38 mins      █████████████████████████   99.41 % 
+Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Windows                  14 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -68,5 +69,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:52:13 UTC
+ Last Updated on 27/09/2026 21:54:46 UTC
 <!--END_SECTION:waka-->
