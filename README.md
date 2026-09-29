@@ -1,15 +1,15 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C599%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C611%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 271.6 kB Used in GitHub's Storage 
+> 📦 272.0 kB Used in GitHub's Storage 
  > 
-> 🏆 843 Contributions in the Year 2026
+> 🏆 849 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,21 +20,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1105 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-🌆 Daytime                3728 commits        ████████░░░░░░░░░░░░░░░░░   30.02 % 
-🌃 Evening                3226 commits        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-🌙 Night                  4358 commits        █████████░░░░░░░░░░░░░░░░   35.10 % 
+🌞 Morning                1107 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+🌆 Daytime                3730 commits        ████████░░░░░░░░░░░░░░░░░   30.03 % 
+🌃 Evening                3226 commits        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+🌙 Night                  4359 commits        █████████░░░░░░░░░░░░░░░░   35.09 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2229 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Tuesday                  1962 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Wednesday                1782 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Monday                   2229 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Tuesday                  1964 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Wednesday                1785 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 Thursday                 1561 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Friday                   1720 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 Saturday                 1380 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Sunday                   1783 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Sunday                   1783 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 ```
 
 
@@ -44,18 +44,18 @@ Sunday                   1783 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C#                       17 hrs 41 mins      ████████████████████░░░░░   79.57 % 
-Rust                     3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+C#                       17 hrs 53 mins      ██████████████████████░░░   86.03 % 
+Rust                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+INI                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 10 mins      █████████████████████████   99.72 % 
-Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+VS Code                  20 hrs 43 mins      █████████████████████████   99.70 % 
+Zed                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  22 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +69,5 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:46:05 UTC
+ Last Updated on 29/09/2026 22:54:57 UTC
 <!--END_SECTION:waka-->
