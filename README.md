@@ -1,13 +1,13 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C677%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C679%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 275.6 kB Used in GitHub's Storage 
+> 📦 275.8 kB Used in GitHub's Storage 
  > 
 > 🏆 908 Contributions in the Year 2026
  > 
@@ -44,27 +44,27 @@ Sunday                   1703 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     6 hrs 8 mins        ███████████████████████░░   90.87 % 
-TOML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-jsonc                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Diff                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Rust                     3 hrs 48 mins       ███████████████████████░░   93.39 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+jsonc                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 25 mins       ████████████████████████░   95.11 % 
-Copilot CLI              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+VS Code                  3 hrs 44 mins       ███████████████████████░░   91.88 % 
+Copilot CLI              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Windows                  6 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (3.73%)
+⏱ AI Coding Time: 15 mins (6.18%)
 
-✍️ 0 lines written by AI, 1,349 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 604 lines written by hand (0.0% AI-written)
 
 🔤 2,051 Input Tokens, 721 Output Tokens
 
@@ -86,5 +86,5 @@ Gemma                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 22:08:44 UTC
+ Last Updated on 23/10/2026 21:55:01 UTC
 <!--END_SECTION:waka-->
