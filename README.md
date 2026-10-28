@@ -1,13 +1,13 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C708%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C715%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 277.6 kB Used in GitHub's Storage 
+> 📦 277.9 kB Used in GitHub's Storage 
  > 
 > 🏆 985 Contributions in the Year 2026
  > 
@@ -44,42 +44,40 @@ Sunday                   1923 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     20 hrs 34 mins      █████████████░░░░░░░░░░░░   53.52 % 
-Praat                    6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-TOML                     4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Markdown                 2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-TypeScript               1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Rust                     20 hrs 21 mins      █████████████░░░░░░░░░░░░   52.06 % 
+Praat                    6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+TOML                     4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+JSON                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Markdown                 2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 10 mins      ██████████████████████░░░   88.89 % 
-Claude Code              4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Copilot CLI              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+VS Code                  35 hrs 4 mins       ██████████████████████░░░   89.72 % 
+Claude Code              4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 
 💻 Operating System: 
-Windows                  38 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  39 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 42 mins (46.03%)
+⏱ AI Coding Time: 17 hrs 26 mins (44.63%)
 
-✍️ 43,035 lines written by AI, 3,737 lines written by hand (92.01% AI-written)
+✍️ 43,035 lines written by AI, 3,816 lines written by hand (91.86% AI-written)
 
-🔤 9,557,442 Input Tokens, 2,656,562 Output Tokens
+🔤 9,555,391 Input Tokens, 2,655,841 Output Tokens
 
-💵 $292.41 Estimated AI Cost This Week
+💵 $292.39 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 250 AI Prompts
+🧠 9 AI Sessions, 224 AI Prompts
 
 Opus                     44,508 lines        █████████████████████████   100.00 % 
-Gemma                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.01% of written lines came from AI
-📝 Concise Prompter — average 337 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 10.11% of changed lines were hand-edited
+🤖 AI-Driven — 91.86% of written lines came from AI
+📝 Concise Prompter — average 356 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
+🚀 High AI Trust — 10.53% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -87,5 +85,5 @@ Gemma                    0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:56:47 UTC
+ Last Updated on 28/10/2026 23:02:25 UTC
 <!--END_SECTION:waka-->
