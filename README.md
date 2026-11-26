@@ -1,7 +1,7 @@
 ## Code time of the week (updated every 19:00 UTC)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C868%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C868%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2016%20mins-blue?style=flat)
 
@@ -44,41 +44,41 @@ Sunday                   1586 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     23 hrs 47 mins      ████████████████░░░░░░░░░   64.47 % 
-C++                      3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Lua                      2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-TOML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Rust                     20 hrs 32 mins      ████████████████░░░░░░░░░   62.31 % 
+C++                      3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Lua                      2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+TOML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+PowerShell               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 1 min        ████████████████████░░░░░   78.66 % 
-Claude Code              7 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Zed                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+VS Code                  25 hrs 42 mins      ███████████████████░░░░░░   77.96 % 
+Claude Code              7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Zed                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Windows                  36 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 56 mins (59.48%)
+⏱ AI Coding Time: 19 hrs 17 mins (58.49%)
 
-✍️ 35,747 lines written by AI, 1,094 lines written by hand (97.03% AI-written)
+✍️ 31,474 lines written by AI, 1,012 lines written by hand (96.88% AI-written)
 
-🔤 9,573,118 Input Tokens, 2,720,528 Output Tokens
+🔤 7,645,955 Input Tokens, 2,401,640 Output Tokens
 
-💵 $342.11 Estimated AI Cost This Week
+💵 $296.38 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 231 AI Prompts
+🧠 11 AI Sessions, 209 AI Prompts
 
-Opus                     39,603 lines        █████████████████████████   100.00 % 
+Opus                     35,314 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.03% of written lines came from AI
-📝 Concise Prompter — average 177 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 6.27% of changed lines were hand-edited
+🤖 AI-Driven — 96.88% of written lines came from AI
+📝 Concise Prompter — average 189 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 6.44% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -86,5 +86,5 @@ Opus                     39,603 lines        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/SARDONYX-sard/SARDONYX-sard/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 03:00:49 UTC
+ Last Updated on 26/11/2026 02:06:07 UTC
 <!--END_SECTION:waka-->
